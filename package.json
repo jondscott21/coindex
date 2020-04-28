@@ -1,0 +1,16 @@
+{
+  "name": "coindex",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": "./bin/coindex.js",
+  "repository": "https://github.com/jondscott21/coindex.git",
+  "author": "Jonathan Scott <jonathan.scott@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "colors": "^1.4.0",
+    "commander": "^5.1.0",
+    "configstore": "^5.0.1",
+    "inquirer": "^7.1.0"
+  }
+}
