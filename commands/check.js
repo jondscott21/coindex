@@ -14,7 +14,7 @@ const check = {
            console.log(priceOutputData)
         }
         catch(err) {
-            console.error(err)
+            console.error(err.message.red)
         }
     }
 }
